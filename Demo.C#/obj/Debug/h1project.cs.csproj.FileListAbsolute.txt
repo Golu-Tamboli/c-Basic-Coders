@@ -1,0 +1,5 @@
+D:\microsof_visual_studio_2008_Assigment\h1project.cs\h1project.cs\bin\Debug\h1project.cs.exe
+D:\microsof_visual_studio_2008_Assigment\h1project.cs\h1project.cs\bin\Debug\h1project.cs.pdb
+D:\microsof_visual_studio_2008_Assigment\h1project.cs\h1project.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\microsof_visual_studio_2008_Assigment\h1project.cs\h1project.cs\obj\Debug\h1project.cs.exe
+D:\microsof_visual_studio_2008_Assigment\h1project.cs\h1project.cs\obj\Debug\h1project.cs.pdb
